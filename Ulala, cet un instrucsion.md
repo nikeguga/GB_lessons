@@ -1,6 +1,6 @@
 # Markdown sintaxis instruction
 
-## Tewxt input
+## Text input
 
 To make bold use two damn stars from both sides like **THIS** 
 
