@@ -18,6 +18,12 @@ _**BAD BOY**_
 
 ## Images
 
+You put ![some text](image name) and here you go
+
+like this:
+
+![300 bucks](gaci.jpg)
+
 ## Links
 
 ## Tables
