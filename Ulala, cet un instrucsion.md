@@ -55,3 +55,7 @@ Oh I hate it, better use damn generators
 Now we are getting to the sweet spot. This MD can do some tables, but you gonna hate it. you use | (this is vertical slash, or pipe, or you IQ if you're in for roman numbers) for column separation. Then you use - (meaning minus, like what you see on your bank account) for horizontal lines to separate only the heads of the table. 
 
 ## Quotes
+
+And the last one, quotes. You can get a quote with > symbol, but you'll heve to do it in the new line. Also if you are quoting dudes that like to qoute you can do it up to 15 times, then even MD think that this is some BS, you creep.
+> "Oh yeees, me mooscles are getting sronker from the poomp"
+>>Albert Einstein
