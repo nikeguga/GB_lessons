@@ -43,4 +43,6 @@ Like this: <https://www.youtube.com/watch?v=dQw4w9WgXcQ>, understiood? Also you 
 
 ## Tables
 
+Now we are getting to the sweet spot. This MD can do some tables, but you gonna hate it. you use | (this is vertical slash, or pipe, or you IQ if you're in for roman numbers) for column separation. Then you use - (meaning minus, like what you see on your bank account) for horizontal lines to separate only the heads of the table. 
+
 ## Quotes
