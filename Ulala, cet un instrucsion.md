@@ -6,7 +6,7 @@ To make bold use two damn stars from both sides like **THIS**
 
 Or two underscores from sides as a nerdy way to be bold
 
-To make italics one starfrom both sides will do, *see*?
+To make italics one star from both sides will do, *see*?
 
 Or you can be a nerd and use underscore for what I care, one for each side, and go get some MTG cards and new glasses (with respect though)
 
@@ -49,5 +49,7 @@ Like this: <https://www.youtube.com/watch?v=dQw4w9WgXcQ>, understiood? Also you 
 | Me   | 9000 |
 
 Oh I hate it, better use damn generators
+
+Now we are getting to the sweet spot. This MD can do some tables, but you gonna hate it. you use | (this is vertical slash, or pipe, or you IQ if you're in for roman numbers) for column separation. Then you use - (meaning minus, like what you see on your bank account) for horizontal lines to separate only the heads of the table. 
 
 ## Quotes
