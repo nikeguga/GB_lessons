@@ -38,7 +38,8 @@ like this:
 
 ## Links
 
-Some mambo jumbo
+So you wanna get some links in your crappy "content"? Easy! You can get damn link in <>
+Like this: <https://www.youtube.com/watch?v=dQw4w9WgXcQ>, understiood? Also you may do some other staff. If you need to put discription, you get text in [ ] then you go with link in ( ). And your text becomes that same link. And if you are a dumbass, here is an expample [Example](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Tables
 
