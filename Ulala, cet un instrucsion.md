@@ -43,4 +43,11 @@ Like this: <https://www.youtube.com/watch?v=dQw4w9WgXcQ>, understiood? Also you 
 
 ## Tables
 
+| Name |  IQ  |
+|------|------|
+| You  | none |
+| Me   | 9000 |
+
+Oh I hate it, better use damn generators
+
 ## Quotes
