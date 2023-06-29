@@ -14,6 +14,8 @@ So you can make a mutant from those two. You gotta get underscores from both sid
 
 _**BAD BOY**_
 
+And when you have an itching need to emphasise your oh so very important opinion or whatever and you have to cross out the text you were working on so hard you go with ~ on both sides, and double them. ~~I like you~~
+
 ## Lists
 
 so we talk no numbers. We go with a star
